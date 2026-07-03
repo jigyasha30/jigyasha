@@ -1,4 +1,4 @@
-# Hi, I'm Jigyasha Yaduvanshi 👋
+# Hi, I'm Jigyasha  👋
 
 Welcome to my GitHub profile!
 
