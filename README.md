@@ -9,14 +9,13 @@ Welcome to my GitHub profile!
 - 🚀 Interested in building real-world projects and improving my coding skills
 
 ## Skills
-- C
-- C++
 - Java
 - HTML
 - CSS
 - JavaScript
 - Python
 - MySQL
+- Mern stack
 - UI/UX Designing
 - Git & GitHub
 
