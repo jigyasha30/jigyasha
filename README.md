@@ -1,37 +1,57 @@
 # 👋 Hi, I'm Jigyasha Yaduvanshi
 
-### 💻 Full Stack Web Developer | MERN Stack Developer
+### 💻 Web Developer | Frontend Developer | Full Stack Developer
 
-I'm a passionate Web Developer who enjoys building responsive, user-friendly and full-stack web applications. I love learning new technologies, solving development problems, and turning ideas into functional projects.
+I'm a Computer Science Engineering student passionate about building responsive, user-focused and functional web applications.
 
-Currently, I'm focused on improving my **MERN Stack Development** skills through hands-on projects and continuous learning.
+I enjoy working with modern web technologies, building real-world projects, learning new concepts and continuously improving my development skills.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Web Development enthusiast
-* 🌱 Currently improving my **MERN Stack** skills
-* 🔧 Interested in building real-world web applications
-* 📚 Learning through hands-on projects
-* 🎯 Focused on improving coding and problem-solving skills
-* 🚀 Always learning and building new projects
+* 🎓 Computer Science Engineering Student
+* 💻 Full Stack & Frontend Development enthusiast
+* 🌱 Currently improving my MERN Stack skills
+* 🔧 Experienced in building practical web applications
+* 🧠 Interested in problem solving and learning new technologies
+* 🚀 Passionate about creating clean and user-friendly interfaces
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Internship Experience
+
+### 🔹 CodeAlpha — Full Stack Development Intern
+
+**Virtual Internship | July 2026**
+
+* Completed a one-month Full Stack Development internship.
+* Worked on practical frontend and backend web development projects.
+* Gained experience with API integration and database-driven applications.
+* Received a Certificate of Completion and Letter of Recommendation (LOR).
+
+### 🔹 Syntecxhub — Web Development Intern
+
+**10 July 2026 – 10 August 2026**
+
+* Successfully completed the Web Development Internship Program at Syntecxhub.
+* Worked on practical web development tasks and projects.
+* Gained hands-on experience in building responsive web applications.
+* Successfully completed the internship with active participation and dedication.
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
 
 * HTML5
 * CSS3
-* JavaScript
+* JavaScript (ES6+)
 * React.js
 * React Router
-* Vite
 * Bootstrap
-* React Icons
-* Axios
+* Responsive Design
 
 ### Backend
 
@@ -39,17 +59,16 @@ Currently, I'm focused on improving my **MERN Stack Development** skills through
 * Express.js
 * REST APIs
 * JWT Authentication
-* bcrypt.js
-* Multer
 
 ### Database
 
 * MongoDB
 * MongoDB Atlas
 * Mongoose
+* MySQL
 * JSON Server
 
-### Tools & Platforms
+### Tools & Deployment
 
 * Git
 * GitHub
@@ -57,198 +76,206 @@ Currently, I'm focused on improving my **MERN Stack Development** skills through
 * Postman
 * Vercel
 * Render
-* npm
+
+### Libraries
+
+* Axios
+* React Toastify
+* SweetAlert2
+* Chart.js
+* React Icons
 
 ---
 
-# 📂 My Projects
+# 📂 Featured Projects
 
-## 🎯 QuizMaster – Quiz Management & Online Assessment Platform
+## 🎯 Quiz Management & Online Assessment Platform
 
-A full-stack quiz platform designed for students and administrators.
+A full-stack online assessment platform with separate Admin and Student/User functionality.
 
 ### Features
 
-* Student Dashboard
 * Admin Dashboard
-* Quiz Management
+* Student Dashboard
+* Quiz Creation
 * Question Management
-* User Management
 * Quiz Attempts
-* Result Tracking
-* Score Calculation
+* Performance Monitoring
 * Timer-based quizzes
-* Search and filtering
+* Results and score tracking
+* User Management
 * MongoDB integration
-* REST API integration
 
-### Technologies
-
-**React.js • Node.js • Express.js • MongoDB • Mongoose • Axios • React Router**
+**Tech:** React.js • Node.js • Express.js • MongoDB • Mongoose
 
 ---
 
-## 🔐 Blog Application
+## 📝 Blog Application
 
-A full-stack blog application with a React frontend and Node.js backend.
+A full-stack blogging application with authentication and protected operations.
 
 ### Features
 
-* User management
-* Blog management
-* Authentication
-* JWT authentication
-* Password hashing
-* MongoDB database
+* User Registration & Login
+* JWT Authentication
+* Create Blogs
+* Update Blogs
+* Delete Blogs
+* Protected Routes
+* MongoDB Database
 * REST APIs
-* CRUD operations
-* Backend deployment
-* Frontend deployment
 
-### Technologies
-
-**React.js • Node.js • Express.js • MongoDB • Mongoose • JWT • bcrypt.js**
-
----
-
-## 💰 Expense Tracker
-
-A React-based application for managing and tracking personal expenses.
-
-### Features
-
-* Add expenses
-* Manage transactions
-* Track income and expenses
-* Expense calculations
-* Data management
-* Responsive interface
-
-### Technologies
-
-**React.js • Vite • JavaScript • JSON Server • CSS**
-
----
-
-## 📦 Product Catalog Management
-
-A web application for managing and displaying product information.
-
-### Features
-
-* Product listing
-* Product management
-* API integration
-* Responsive UI
-
-### Technologies
-
-**React.js • JavaScript • CSS • REST API**
-
----
-
-## 📇 Contact Manager
-
-A contact management application for adding, viewing and managing contacts.
-
-### Features
-
-* Add contacts
-* View contacts
-* Edit contacts
-* Delete contacts
-* Responsive interface
-
-### Technologies
-
-**React.js • JavaScript • CSS**
-
----
-
-## 🌐 Social Media Application
-
-A social media web application focused on creating an interactive user experience.
-
-### Features
-
-* User interface
-* Social feed
-* User interactions
-* Responsive design
-
-### Technologies
-
-**React.js • JavaScript • CSS**
-
----
-
-## 📋 Project Management Application
-
-A web application designed to organize and manage projects and tasks.
-
-### Features
-
-* Project management
-* Task management
-* Organized dashboard
-* Responsive interface
-
-### Technologies
-
-**React.js • JavaScript • CSS**
+**Tech:** React.js • Node.js • Express.js • MongoDB • JWT
 
 ---
 
 ## 🛡️ Insurance Management System
 
-A web-based insurance management application designed to manage insurance-related information.
+A full-stack insurance management application for managing insurance-related operations.
 
 ### Features
 
-* Insurance management
-* User-friendly interface
-* Data management
-* Responsive design
+* Customer Management
+* Policy Management
+* Claims Management
+* Payments
+* Documents
+* User Profile
+* Dashboard Statistics
+* Interactive Charts
 
-### Technologies
-
-**React.js • JavaScript • CSS**
-
----
-
-# 📚 What I've Learned Through Projects
-
-Through my projects, I've gained practical experience with:
-
-* ⚛️ React.js
-* 🟢 Node.js & Express.js
-* 🍃 MongoDB & Mongoose
-* 🔗 REST API development
-* 🔐 Authentication & authorization
-* 📦 CRUD operations
-* 🎨 Responsive UI development
-* 🗄️ Database integration
-* 🔄 API integration
-* 🧪 API testing with Postman
-* 🌐 Deployment with Vercel & Render
-* 🌿 Git & GitHub
+**Tech:** React.js • Node.js • Express.js • MongoDB • Chart.js
 
 ---
 
-# 🎯 Current Goals
+## 📇 Contact Manager
+
+A responsive contact management application.
+
+### Features
+
+* Add Contacts
+* Edit Contacts
+* Delete Contacts
+* Search Contacts
+* Persistent Data Storage
+* Responsive UI
+
+**Tech:** React.js • JavaScript • LocalStorage • Vercel
+
+---
+
+## 📦 Product Catalog Management
+
+A product management application built with reusable React components.
+
+### Features
+
+* Add Products
+* Edit Products
+* Delete Products
+* Search Products
+* Category Filtering
+* Responsive UI
+
+**Tech:** React.js • JavaScript • JSON Server • CSS
+
+---
+
+## 💰 Expense Tracker
+
+A responsive expense management application for tracking and managing expenses.
+
+### Features
+
+* Add Expenses
+* Edit Expenses
+* Delete Expenses
+* Search
+* Filter
+* Summary Calculations
+* Persistent Data
+
+**Tech:** React.js • Vite • JSON Server • LocalStorage
+
+---
+
+## 🌐 Social Media Application
+
+A practical social media web application focused on interactive and responsive user experience.
+
+### Features
+
+* Interactive UI
+* Forms
+* Data Handling
+* Responsive Components
+* API Integration
+
+**Tech:** React.js • JavaScript • REST APIs
+
+---
+
+## 📋 Project Management Application
+
+A responsive application designed to manage projects and tasks.
+
+### Features
+
+* Project Management
+* Task Workflows
+* Interactive Components
+* Responsive Design
+* API Integration
+
+**Tech:** React.js • JavaScript • REST APIs
+
+---
+
+# 📜 Certifications
+
+🏆 **CodeAlpha — Full Stack Development Internship Certificate**
+**July 2026**
+
+🏆 **CodeAlpha — Letter of Recommendation (LOR)**
+**Full Stack Development**
+
+🏆 **Syntecxhub — Web Development Internship Certificate**
+**10 July 2026 – 10 August 2026**
+
+---
+
+# 💡 Skills
+
+* Problem Solving
+* Responsive UI Development
+* API Integration
+* Debugging
+* CRUD Operations
+* Authentication
+* Database Integration
+* Quick Learning
+* Git & GitHub
+* Deployment
+
+---
+
+# 🎯 My Goals
 
 * 🚀 Become a strong Full Stack Developer
 * 💡 Build more real-world applications
 * 🧠 Improve problem-solving skills
 * 🌐 Learn advanced backend development
 * ☁️ Improve deployment and cloud technologies
-* 💼 Prepare for professional development opportunities
+* 💼 Grow as a professional developer
 
 ---
 
 # 📫 Connect With Me
 
-* 💻 GitHub: **@jigyasha30**
+💻 **GitHub:** [@jigyasha30](https://github.com/jigyasha30)
+
+🔗 **LinkedIn:** [Jigyasha Yaduvanshi](https://www.linkedin.com/in/jigyasha-%E2%9C%A8-12072637/)
 
 ---
 
